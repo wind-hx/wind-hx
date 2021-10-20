@@ -10,6 +10,7 @@
 [![](https://img.shields.io/badge/IDE-JetBrains-714587?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/?from=puck)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
 ### Language
+![](https://img.shields.io/badge/Java-Good-339933?style=flat-square&logo=Java)
 ![](https://img.shields.io/badge/C-Noob-A8B9CC.svg?style=flat&logo=C)
 ![](https://img.shields.io/badge/C++-Noob-00599C.svg?style=flat&logo=c%2B%2B)
 ![](https://img.shields.io/badge/C%20Sharp-Noob-00599C.svg?style=flat&logo=C%20Sharp)
